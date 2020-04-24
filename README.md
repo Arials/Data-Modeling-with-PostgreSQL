@@ -32,9 +32,9 @@ To execute the ETL process you ned to:
 
 * Create the tables in your PostgreSQL DB:
 
-'''
-import create_tables
-import etl
-create_tables.main()
-etl.main()
-'''
+
+    import create_tables
+    import etl
+    create_tables.main()
+    etl.main()
+
