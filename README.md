@@ -2,6 +2,8 @@
 
 ## Description
 
+This is a project for the Udacity Data Engineer Nanodegree
+
 Sparkify is a new concept in the song's industry where the analysis and songs recomendations are the core.
 We analyze what songs users listen to.
 
@@ -28,7 +30,7 @@ We have create this ETL process using python 3.X, so we can extract the informat
 
 ## First steps
 
-To execute the ETL process you ned to:
+To execute the ETL process you need to:
 
 * Create the tables in your PostgreSQL DB:
 
